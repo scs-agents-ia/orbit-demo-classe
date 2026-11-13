@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{console.info('ORBIT 1.0.0 · Versió inicial: sense llançament de missions.');});
